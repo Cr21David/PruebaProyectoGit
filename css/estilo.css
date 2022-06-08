@@ -6,22 +6,13 @@
 background: radial-gradient(circle, rgba(63,105,251,0.5914740896358543) 0%, rgba(70,233,252,0.6699054621848739) 100%);
 */
 }
-.header img{
-    border-radius: 20%;
-}
-u {
-  text-decoration: underline;
-}
-.table, th, td {
-  border: 2px solid 
-  black; 
-  outline-style: solid;
-}
+
 
 h1 {
   margin: 10px;
   padding: 50px;
   color:red;
+  text-align: left;
 }
 .h2, p {
   margin: 4px;
@@ -31,6 +22,19 @@ div {
   border: black 3px solid;
 }
 body{
-  text-align: center;
+  text-align: left;
   font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-size: 16px;
+}
+#container{
+  width: 70%;
+  padding: 1em;
+  text-align: left;
+  border: 1px solid #DDD;
+  margin: 0auto;
+}
+#container h1{
+  font-size: 20px;
+
 }
