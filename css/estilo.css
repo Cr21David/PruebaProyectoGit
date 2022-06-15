@@ -56,3 +56,9 @@ cabecera #tagline{
   font-weight: normal;
   font-size: 0.8em;
 }
+
+nav{
+  list-style: none;
+  list-style-position: inside;
+  
+}
