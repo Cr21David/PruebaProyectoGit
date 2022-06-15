@@ -1,0 +1,56 @@
+header
+{
+    background: radial-gradient(circle, rgba(63,105,251,0.5914740896358543) 0%, rgba(70,233,252,0.6699054621848739) 100%);
+    color: rgb(5, 5, 5);
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 22;
+    padding: 12;
+    width: 100vw;
+   height: 5vh;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+#container
+{
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
+#post
+{
+    background: white;
+    padding: 1em;
+}
+
+footer
+{
+    background: radial-gradient(circle, rgba(17, 30, 75, 0.591) 0%, rgba(70,233,252,0.6699054621848739) 100%);
+    color: rgb(19, 18, 18);
+    text-align: center;
+    padding: 1.5em;
+}
+
+article{
+    background: radial-gradient(circle, rgba(63, 17, 75, 0.591) 0%, rgba(172, 182, 183, 0.67) 100%);  
+}
