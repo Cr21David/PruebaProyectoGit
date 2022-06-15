@@ -54,3 +54,9 @@ footer
 article{
     background: radial-gradient(circle, rgba(63, 17, 75, 0.591) 0%, rgba(172, 182, 183, 0.67) 100%);  
 }
+.table, th, td {
+    border: 2px solid 
+    black; 
+    outline-style: solid;
+    background-color: bisque;
+  }
